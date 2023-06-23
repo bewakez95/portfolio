@@ -1,0 +1,23 @@
+body {
+  margin: o;
+  box-sizing: border-box;
+}
+
+nav {
+  display: flex;
+  background-color: #f9d7c4;
+}
+nav .logo {
+  display: flex;
+  list-style: none;
+  justify-content: space-between;
+  align-items: center;
+  width: 50%;
+}
+nav .links ul {
+  width: 100%;
+  display: flex;
+  list-style: none;
+  justify-content: space-between;
+  align-items: center;
+}/*# sourceMappingURL=style.css.map */
